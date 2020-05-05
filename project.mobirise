@@ -57,11 +57,11 @@
       "settings": {
         "main": true,
         "title": "Casa do Pizzaiolo Cerquilho",
-        "meta_descr": "Pizzaria com valores acessiveis na cidade de Cerquilho",
+        "meta_descr": "Pizza barata com muito recheio deliciosa em Cerquilho, Tietê e Cesário Lange",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/casa%20do%20pizzaiolo%20folder-960x953.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/casa%20do%20pizzaiolo%202-1287x965.png"
       },
       "components": [
         {
